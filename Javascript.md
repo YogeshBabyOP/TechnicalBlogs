@@ -154,7 +154,7 @@ Let (vs) const (vs) var
 
 
 ### not defined example
-1.3 code
+1.3 code 
 
     var a = 5;
     console.log(b);
